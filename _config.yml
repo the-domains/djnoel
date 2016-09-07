@@ -1,19 +1,4 @@
-name: DJNoël
-favicon: null
-layout_spectrum: 0.6931511727161705
 typography_spectrum: 0.9419944738037884
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,23 @@ color:
   lightness: 0.2919440786354244
   saturation: 0.48722621449269354
   rhythmicContrast: 0.9270026492886245
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6931511727161705
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DJNoël
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    url: noelc.com
+    type: external
+favicon: null
 purpose: []
